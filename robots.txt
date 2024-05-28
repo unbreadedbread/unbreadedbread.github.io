@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /cloudOS/applibrary/
+Disallow: /cloudOS/calculator/
+Disallow: /cloudOS/writing/
+Disallow: /cloudOS/home.html
+Sitemap: https://unbreadedbread.cc/sitemap.xml
